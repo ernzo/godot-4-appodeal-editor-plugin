@@ -1,4 +1,5 @@
-# Appodeal Plugin for Godot GameEngine
+# (Work In Progress!) Appodeal Plugin for Godot 4
+For Godot 3 version see the [original repository](https://github.com/DmitriiFeshchenko/godot-appodeal-editor-plugin)
 
 Stable version of Godot Appodeal Plugin is 2.0.0.
 
@@ -197,10 +198,10 @@ Check out the demo project (link below) to get familiar with correct usage of Ap
 
 # Links:
 
-### [Demo Project](https://github.com/DmitriiFeshchenko/godot-appodeal-demo-project)
+### [Demo Project](https://github.com/virtualplaynl/godot-4-appodeal-demo-project)
 
 ### [Changelog](CHANGELOG.md)
 
-### [iOS Plugin](https://github.com/DmitriiFeshchenko/godot-appodeal-ios-plugin)
+### [iOS Plugin](https://github.com/virtualplaynl/godot-4-appodeal-ios-plugin)
 
-### [Android Plugin](https://github.com/DmitriiFeshchenko/godot-appodeal-android-plugin)
+### [Android Plugin](https://github.com/virtualplaynl/godot-4-appodeal-android-plugin)
