@@ -1,4 +1,4 @@
-tool
+@tool
 extends Node
 # Appodeal Ad Networks for disable_network() method
 
