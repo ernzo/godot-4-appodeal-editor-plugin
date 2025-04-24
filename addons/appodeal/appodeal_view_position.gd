@@ -1,4 +1,4 @@
-tool
+@tool
 extends Node
 # Appodeal View Positions for show_banner_view() and show_mrec_view() methods
 
