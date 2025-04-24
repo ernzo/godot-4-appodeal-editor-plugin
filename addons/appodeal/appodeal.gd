@@ -1,4 +1,4 @@
-tool
+@tool
 extends Node
 # Appodeal API for developers
 
