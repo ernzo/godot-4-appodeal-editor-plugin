@@ -1,4 +1,4 @@
-# Non Functional Appodeal Plugin for Godot
+# Non Functional/Outdated Appodeal Plugin for Godot
 This plugin was made for older Godot versions, and is built on the older v1 architecture.
 
 For this version of the plugin to "work":
