@@ -16,9 +16,11 @@ This makes the plugin appear on Godot's Export menu for Android.
 
 This means you can use **some** of the functionality.
 
-For instance I managed to make it display the Google GDPR Consent message,
-but it could not finish the consent validation process, and so the process didnt continue and Test ADs were not displayed...
+For instance:
+I managed to make it display two Test Banners, they looked right, and were clickable etc..
 
+And then even managed to make it display the Google GDPR Consent message,
+but it could not finish the consent validation process, and so the process didnt continue and Test ADs were not displayed...
 
 ## Problems:
 
